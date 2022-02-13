@@ -27,7 +27,7 @@ from sklearn.linear_model import Ridge
 
 from sklearn.linear_model import Lasso
 
-from sklearn.ensemble import RandomForestRegressor as rfr
+from sklearn.ensemble import RandomForestRegressor 
 
 
 # Set up 
